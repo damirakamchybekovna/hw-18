@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+ html .item{
+  font-family: sans-serif;
+  background-color: black;
+  height: 900px;
+} 
+body {
+  margin: 0;
+}
+main{
+  padding-top: 100px;
+}
